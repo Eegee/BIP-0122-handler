@@ -1,0 +1,219 @@
+{
+	"chains": [
+		{
+			"name": "Bitcoin mainnet",
+			"chain": "000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f",
+			"block-explorers": [
+				{
+					"name": "Bitaps.com",
+					"tx": "https://btc.bitaps.com/%s",
+					"block": "https://btc.bitaps.com/%s",
+					"height": "https://btc.bitaps.com/%s",
+					"address": "https://btc.bitaps.com/%s"
+				},
+				{
+					"name": "BitcoinChain",
+					"tx": "https://bitcoinchain.com/block_explorer/tx/%s",
+					"block": "https://bitcoinchain.com/block_explorer/block/%s",
+					"height": "https://bitcoinchain.com/block_explorer/block/%s",
+					"address": "https://bitcoinchain.com/block_explorer/address/%s"
+				},
+				{
+					"name": "BitInfoCharts",
+					"tx": "https://bitinfocharts.com/bitcoin/tx/%s",
+					"height": "https://bitinfocharts.com/bitcoin/block/%s",
+					"address": "https://bitinfocharts.com/bitcoin/address/%s"
+				},
+				{
+					"name": "BitPay",
+					"tx": "https://insight.bitpay.com/tx/%s",
+					"block": "https://insight.bitpay.com/block/%s",
+					"height": "https://insight.bitpay.com/block-index/%s",
+					"address": "https://insight.bitpay.com/address/%s"
+				},
+				{
+					"name": "Blockchain.info",
+					"tx": "https://blockchain.info/tx/%s",
+					"block": "https://blockchain.info/block/%s",
+					"height": "https://blockchain.info/block-height/%s",
+					"address": "https://blockchain.info/address/%s"
+				},
+				{
+					"name": "Blockchain Reader",
+					"tx": "http://www.yogh.io/#tx:id:%s",
+					"block": "http://www.yogh.io/#block:id:%s",
+					"height": "http://www.yogh.io/#block:height:%s",
+					"address": "http://www.yogh.io/#addr:id:%s"
+				},
+				{
+					"name": "Blockchair",
+					"tx": "https://blockchair.com/bitcoin/transaction/%s",
+					"block": "https://blockchair.com/bitcoin/block/%s",
+					"height": "https://blockchair.com/bitcoin/block/%s",
+					"address": "https://blockchair.com/bitcoin/address/%s"
+				},
+				{
+					"name": "BlockCypher",
+					"tx": "https://live.blockcypher.com/btc/tx/%s",
+					"block": "https://live.blockcypher.com/btc/block/%s",
+					"height": "https://live.blockcypher.com/btc/block/%s",
+					"address": "https://live.blockcypher.com/btc/address/%s"
+				},
+				{
+					"name": "Blockstream",
+					"tx": "https://blockstream.info/tx/%s",
+					"block": "https://blockstream.info/block/%s",
+					"height": "https://blockstream.info/block-height/%s",
+					"address": "https://blockstream.info/address/%s"
+				},
+				{
+					"name": "Blockonomics",
+					"tx": "https://www.blockonomics.co/api/tx?txid=%s",
+					"address": "https://www.blockonomics.co/#/search?q=%s"
+				},
+				{
+					"name": "BTC.com",
+					"tx": "https://btc.com/%s",
+					"block": "https://btc.com/%s",
+					"height": "https://btc.com/%s",
+					"address": "https://btc.com/%s"
+				},
+				{
+					"name": "chainFlyer",
+					"tx": "https://chainflyer.bitflyer.jp/Transaction/%s",
+					"block": "https://chainflyer.bitflyer.jp/Block/%s",
+					"height": "https://chainflyer.bitflyer.jp/Block/Height/%s",
+					"address": "https://chainflyer.bitflyer.jp/Address/%s"
+				},
+				{
+					"name": "hashXP",
+					"tx": "https://hashxp.org/%s",
+					"height": "https://hashxp.org/btcblock/%s",
+					"address": "https://hashxp.org/%s"
+				},
+				{
+					"name": "LocalBitcoins",
+					"tx": "https://localbitcoinschain.com/tx/%s",
+					"block": "https://localbitcoinschain.com/block/%s",
+					"height": "https://localbitcoinschain.com/block-index/%s",
+					"address": "https://localbitcoinschain.com/address/%s"
+				},
+				{
+					"name": "mempool.space",
+					"tx": "https://mempool.space/tx/%s",
+					"block": "https://mempool.space/block/%s",
+					"height": "https://mempool.space/block/%s",
+					"address": "https://mempool.space/address/%s"
+				},
+				{
+					"name": "mempool.emzy.de",
+					"tx": "https://mempool.emzy.de/tx/%s",
+					"block": "https://mempool.emzy.de/block/%s",
+					"height": "https://mempool.emzy.de/block/%s",
+					"address": "https://mempool.emzy.de/address/%s"
+				},
+				{
+					"name": "OXT",
+					"tx": "https://oxt.me/transaction/%s",
+					"height": "https://oxt.me/block/%s",
+					"address": "https://oxt.me/address/%s"
+				},
+				{
+					"name": "smartbit",
+					"tx": "https://www.smartbit.com.au/tx/%s",
+					"block": "https://www.smartbit.com.au/block/%s",
+					"height": "https://www.smartbit.com.au/block/%s",
+					"address": "https://www.smartbit.com.au/address/%s"
+				},
+				{
+					"name": "SoChain",
+					"tx": "https://sochain.com/tx/BTC/%s",
+					"block": "https://sochain.com/block/BTC/%s",
+					"height": "https://sochain.com/block/BTC/%s",
+					"address": "https://sochain.com/address/BTC/%s"
+				},
+				{
+					"name": "TradeBlock",
+					"tx": "https://tradeblock.com/bitcoin/tx/%s",
+					"block": "https://tradeblock.com/bitcoin/block/%s",
+					"height": "https://tradeblock.com/bitcoin/block/%s",
+					"address": "https://tradeblock.com/bitcoin/address/%s"
+				},
+				{
+					"name": "WalletExplorer",
+					"tx": "https://www.walletexplorer.com/txid/%s",
+					"address": "https://www.walletexplorer.com/address/%s"
+				}
+			]
+		},
+		{
+			"name": "Bitcoin testnet",
+			"chain": "000000000933ea01ad0ee984209779baaec3ced90fa3f408719526f8d77f4943",
+			"block-explorers": [
+				{
+					"name": "Bitaps.com",
+					"tx": "https://tbtc.bitaps.com/%s",
+					"block": "https://tbtc.bitaps.com/%s",
+					"height": "https://tbtc.bitaps.com/%s",
+					"address": "https://tbtc.bitaps.com/%s"
+				},
+				{
+					"name": "BitPay",
+					"tx": "https://bitpay.com/insight/#/BTC/testnet/tx/%s",
+					"block": "https://bitpay.com/insight/#/BTC/testnet/block/%s",
+					"height": "https://bitpay.com/insight/#/BTC/testnet/block/%s",
+					"address": "https://bitpay.com/insight/#/BTC/testnet/address/%s"
+				},
+				{
+					"name": "Blockchain.info",
+					"tx": "https://www.blockchain.com/btc-testnet/tx/%s",
+					"block": "https://www.blockchain.com/nl/btc-testnet/block/%s",
+					"height": "https://www.blockchain.com/nl/btc-testnet/block/%s",
+					"address": "https://www.blockchain.com/btc-testnet/address/%s"
+				},
+				{
+					"name": "Blockchair",
+					"tx": "https://blockchair.com/bitcoin/testnet/transaction/%s",
+					"block": "https://blockchair.com/bitcoin/testnet/block/%s",
+					"height": "https://blockchair.com/bitcoin/testnet/block/%s",
+					"address": "https://blockchair.com/bitcoin/testnet/address/%s"
+				},
+				{
+					"name": "BlockCypher",
+					"tx": "https://live.blockcypher.com/btc-testnet/tx/%s",
+					"block": "https://live.blockcypher.com/btc-testnet/block/%s",
+					"height": "https://live.blockcypher.com/btc-testnet/block/%s",
+					"address": "https://live.blockcypher.com/btc-testnet/address/%s"
+				},
+				{
+					"name": "Blockstream",
+					"tx": "https://blockstream.info/testnet/tx/%s",
+					"block": "https://blockstream.info/testnet/block/%s",
+					"height": "https://blockstream.info/testnet/block-height/%s",
+					"address": "https://blockstream.info/testnet/address/%s"
+				},
+				{
+					"name": "mempool.space",
+					"tx": "https://mempool.space/testnet/tx/%s",
+					"block": "https://mempool.space/testnet/block/%s",
+					"height": "https://mempool.space/testnet/block/%s",
+					"address": "https://mempool.space/testnet/address/%s"
+				},
+				{
+					"name": "smartbit",
+					"tx": "https://testnet.smartbit.com.au/tx/%s",
+					"block": "https://testnet.smartbit.com.au/block/%s",
+					"height": "https://testnet.smartbit.com.au/block/%s",
+					"address": "https://testnet.smartbit.com.au/address/%s"
+				},
+				{
+					"name": "SoChain",
+					"tx": "https://sochain.com/tx/BTCTEST/%s",
+					"block": "https://sochain.com/block/BTCTEST/%s",
+					"height": "https://sochain.com/block/BTCTEST/%s",
+					"address": "https://sochain.com/address/BTCTEST/%s"
+				}
+			]
+		}
+	]
+}

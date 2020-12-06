@@ -1,0 +1,69 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8"
+
+#: bip0122handler.sexplorerscleared
+msgid "Block explorers cleared. You may set them again with %s"
+msgstr ""
+
+#: bip0122handler.sexplorersnotset
+msgid "Block explorer(s) not yet set, cannot continue"
+msgstr ""
+
+#: bip0122handler.sexplorersset
+msgid "Block explorer(s) set to the following:"
+msgstr ""
+
+#: bip0122handler.shelpclearexplorers
+msgid "clear all used block explorers"
+msgstr ""
+
+#: bip0122handler.shelpdisplaythishelp
+msgctxt "bip0122handler.shelpdisplaythishelp"
+msgid "display this help and exit"
+msgstr ""
+
+#: bip0122handler.shelpgetexplorers
+msgctxt "bip0122handler.shelpgetexplorers"
+msgid "gets the list of currently used block explorers"
+msgstr ""
+
+#: bip0122handler.shelpparamoption
+msgid "[option]"
+msgstr ""
+
+#: bip0122handler.shelpparamuri
+msgid "[URI]"
+msgstr ""
+
+#: bip0122handler.shelpsetexplorers
+msgctxt "bip0122handler.shelpsetexplorers"
+msgid ""
+"sets comma-separated list of used explorers. \n"
+"Use names from %s\n"
+msgstr ""
+
+#: bip0122handler.shelpusage
+msgctxt "bip0122handler.shelpusage"
+msgid "Usage: "
+msgstr ""
+
+#: bip0122handler.shelpwhereoptionis
+msgid "where [option] is one of the following:"
+msgstr ""
+
+#: bip0122handler.shelpwhereuriis
+msgid "where [URI] is a BIP0122 URI, or"
+msgstr ""
+
+#: bip0122handler.spleasesetexplorers
+msgid "Please set your desired block explorer(s) by using -s \"comma-separated list containing selection of explorers below\""
+msgstr ""
+
+#: bip0122handler.sunhandledexception
+msgid "Unhandled %s exception: %s"
+msgstr ""
+
+#: bip0122handler.swarningunknownexplorers
+msgid "Warning: unknown explorers specified. Please use names from %s"
+msgstr ""
+

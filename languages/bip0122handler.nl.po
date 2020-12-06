@@ -1,0 +1,71 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8"
+
+#: bip0122handler.sexplorerscleared
+msgid "Block explorers cleared. You may set them again with %s"
+msgstr "Block explorers gewist. U kunt ze opnieuw instellen met %s"
+
+#: bip0122handler.sexplorersnotset
+msgid "Block explorer(s) not yet set, cannot continue"
+msgstr "Block explorer(s) not niet ingesteld, kan niet verder"
+
+#: bip0122handler.sexplorersset
+msgid "Block explorer(s) set to the following:"
+msgstr "Block explorer(s) ingesteld op de volgende:"
+
+#: bip0122handler.shelpclearexplorers
+msgid "clear all used block explorers"
+msgstr "gebruikte block explorers wissen"
+
+#: bip0122handler.shelpdisplaythishelp
+msgctxt "bip0122handler.shelpdisplaythishelp"
+msgid "display this help and exit"
+msgstr "deze hulp tonen en stoppen"
+
+#: bip0122handler.shelpgetexplorers
+msgctxt "bip0122handler.shelpgetexplorers"
+msgid "gets the list of currently used block explorers"
+msgstr "geeft de lijst van momenteel gebruikte block explorers"
+
+#: bip0122handler.shelpparamoption
+msgid "[option]"
+msgstr "[optie]"
+
+#: bip0122handler.shelpparamuri
+msgid "[URI]"
+msgstr "[URI]"
+
+#: bip0122handler.shelpsetexplorers
+msgctxt "bip0122handler.shelpsetexplorers"
+msgid ""
+"sets comma-separated list of used explorers. \n"
+"Use names from %s\n"
+msgstr ""
+"stelt gebruikte explorers in d.m.v. komma-gescheiden lijst. \n"
+"Gebruik namen uit %s\n"
+
+#: bip0122handler.shelpusage
+msgctxt "bip0122handler.shelpusage"
+msgid "Usage: "
+msgstr "Gebruik: "
+
+#: bip0122handler.shelpwhereoptionis
+msgid "where [option] is one of the following:"
+msgstr "waar [optie] een van de volgende is:"
+
+#: bip0122handler.shelpwhereuriis
+msgid "where [URI] is a BIP0122 URI, or"
+msgstr "waar [URI] een BIP0122 URI is, of"
+
+#: bip0122handler.spleasesetexplorers
+msgid "Please set your desired block explorer(s) by using -s \"comma-separated list containing selection of explorers below\""
+msgstr "Stel alstublieft de gewenste block explorer(s) in, door middel van -s \"komma-gescheiden lijst met selectie van explorers uit de volgende\""
+
+#: bip0122handler.sunhandledexception
+msgid "Unhandled %s exception: %s"
+msgstr "Niet-afgehandelde %s-uitzondering: %s"
+
+#: bip0122handler.swarningunknownexplorers
+msgid "Warning: unknown explorers specified. Please use names from %s"
+msgstr "Waarschuwing: onbekende explorers opgegeven. Gebruik a.u.b. namen uit %s"
+
