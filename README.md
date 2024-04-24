@@ -24,7 +24,3 @@ for help.
 The application file `block-explorers.json`, included in the application installation directory, contains the list of block explorers, in JSON format.  
 If you wish, it's possible to add your own custom explorers by creating a JSON file in the same structure and with the same name in `%LOCALAPPDATA%\bip0122handler\`.
 Entries you add that have a new unique name file will be added to the list. Entries you add that have the same name as in the application file will overrule those from the application file.
-
-If you like this software, please consider donating.  
-BTC: [bc1qmlf937k2emq90qp0cmaayjs73v4andukzpcd8g](blockchain:/address/bc1qmlf937k2emq90qp0cmaayjs73v4andukzpcd8g)  
-or [PayNym](https://paynym.is/+namelessrain47F)
